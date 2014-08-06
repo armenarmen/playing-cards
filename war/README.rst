@@ -1,0 +1,1 @@
+[ ![Codeship Status for armenarmen/playing-cards](https://codeship.io/projects/46520770-ffd8-0131-873b-266d434a3ead/status)](https://codeship.io/projects/29820)
